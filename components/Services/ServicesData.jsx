@@ -9,19 +9,19 @@ export const servicesData = {
             number: '01',
             bootstrapIcon: 'bi bi-brush',
             title: 'Cloud Computing',
-            description: 'Cloud Computing adalah model komputasi melalui internet yang memfasilitasi akses mudah dan sesuai permintaan ke sumber daya komputasi seperti server, penyimpanan, aplikasi, dan layanan. Ini menawarkan fleksibilitas dan skalabilitas yang lebih besar dibandingkan dengan infrastruktur tradisional.',
+            description: 'Cloud Computing is a computing model through the internet that facilitates easy and on-demand access to computing resources such as servers, storage, applications, and services. It offers greater flexibility and scalability compared to traditional infrastructure.',
         },
         {
             number: '02',
             bootstrapIcon: 'bi bi-code-slash',
             title: 'Data Science',
-            description: 'Data Science adalah disiplin ilmu yang menggunakan pendekatan ilmiah, algoritma, dan sistem untuk mengekstraksi pengetahuan dari data besar dan kompleks. Fokusnya adalah menganalisis data untuk mengidentifikasi tren, pola, dan informasi yang mendukung pengambilan keputusan bisnis atau ilmiah yang lebih efektif.',
+            description: 'Data Science is a discipline that uses scientific methods, algorithms, and systems to extract knowledge from large and complex data. Its focus is on analyzing data to identify trends, patterns, and information that support more effective business or scientific decision-making.',
         },
         {
             number: '03',
             bootstrapIcon: 'bi bi-laptop',
             title: 'Machine Learning',
-            description: 'Machine Learning adalah cabang dari kecerdasan buatan di mana komputer dapat belajar dari data untuk membuat keputusan atau prediksi tanpa perlu di-program secara eksplisit. Ini melibatkan pengembangan algoritma dan model statistik untuk memahami pola data, mengenali tren, dan menghasilkan prediksi berdasarkan pengalaman sebelumnya.',
+            description: 'Machine Learning is a branch of artificial intelligence where computers can learn from data to make decisions or predictions without being explicitly programmed. It involves the development of algorithms and statistical models to understand data patterns, recognize trends, and generate predictions based on previous experiences.',
         },
     ]
 };

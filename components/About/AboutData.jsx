@@ -1,17 +1,14 @@
-import HeroAvatar from '@/public/images/hero-avatar1.jpg';
+import HeroAvatar from '@/public/images/21.png';
 
 export const aboutData = {
     mainData: {
         heroAvatar: HeroAvatar,
-        biography: "Saya ahli di bidang  Informatika. Dengan minat yang tinggi dalam dunia informatika, Saya memiliki pemahaman yang mendalam tentang arsitektur cloud, serta keterampilan dalam data analysis, exploratory data analysis (EDA), dan machine learning. Saya berkomitmen untuk terus berinovasi dan memberikan solusi bermanfaat dalam bidang teknologi.",
+        biography: "I am an expert in the field of Informatics. With a high interest in the world of informatics, I possess a deep understanding of cloud architecture, as well as skills in data analysis, exploratory data analysis (EDA), and machine learning. I am committed to continually innovating and providing beneficial solutions in the field of technology.",
         projectsDone: "432",
         yearsOfExperience: "13",
         worldwideClients: "900",
     },
     skills: [
-        {
-            name: 'Cloud Computing (GCP)',
-        },
         {
             name: 'Data Anlyst',
         },
@@ -20,6 +17,9 @@ export const aboutData = {
         },
         {
             name: 'Machine Learning',
+        },
+        {
+            name: 'Cloud Computing (GCP)',
         },
     ],
     connect: [

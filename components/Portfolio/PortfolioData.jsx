@@ -18,7 +18,7 @@ export const portfolioData = {
         title: "Portfolio",
         title2: "Recent",
         title2Span: "Works",
-        description: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation"
+        description: "Here you will find a collection of my recent projects and works. This section showcases my latest contributions and achievements in the field of Informatics. Through these works, I demonstrate my commitment to innovation and providing effective technological solutions. Each entry includes a brief overview of the project, the methodologies used, and the outcomes achieved."
     },
     projects: [
         {
